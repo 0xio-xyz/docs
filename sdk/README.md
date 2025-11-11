@@ -147,7 +147,7 @@ The SDK requires a Chromium-based browser:
 
 - **Issues**: [GitHub Issues](https://github.com/0xGery/0xio-sdk/issues)
 - **Telegram**: [@nullXgery](https://t.me/nullXgery)
-- **Email**: 0xgery@proton.me
+- **Email**: team@0xio.xyz
 
 ## License
 
