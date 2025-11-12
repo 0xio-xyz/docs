@@ -384,10 +384,8 @@ window.__ZEROXIO_SDK_UTILS__.simulateExtensionEvent('balanceChanged', {
 ## Next Steps
 
 - [API Reference](./api-reference.md) - Complete API documentation
-- [Integration Examples](./examples.md) - Framework-specific examples
-- [Type Definitions](./types.md) - TypeScript type reference
-- [Error Handling](./error-handling.md) - Comprehensive error handling guide
-- [Best Practices](./best-practices.md) - Security and optimization tips
+- [SDK Package README](https://github.com/0xGery/0xio-sdk/blob/main/README.md) - Framework-specific examples and integration guides
+- [NPM Package](https://www.npmjs.com/package/@0xgery/0xio-sdk) - Latest version and changelog
 
 ## Common Issues
 
@@ -424,7 +422,7 @@ const wallet = await createZeroXIOWallet({
 
 If you encounter issues:
 
-1. Check the [troubleshooting guide](./error-handling.md)
+1. Review the Common Issues section above
 2. Search [GitHub Issues](https://github.com/0xGery/0xio-sdk/issues)
 3. Ask on [Telegram](https://t.me/nullXgery)
 4. Email: 0xgery@proton.me

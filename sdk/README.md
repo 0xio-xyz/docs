@@ -6,7 +6,7 @@ Official documentation for the 0xio Wallet SDK - enabling seamless integration b
 
 1. [Getting Started](./getting-started.md)
 2. [API Reference](./api-reference.md)
-3. [Integration Examples](./examples.md)
+3. [Examples](./examples.md)
 4. [Type Definitions](./types.md)
 5. [Error Handling](./error-handling.md)
 6. [Best Practices](./best-practices.md)
@@ -140,15 +140,17 @@ The SDK requires a Chromium-based browser:
 
 - [Getting Started Guide](./getting-started.md) - Detailed setup instructions
 - [API Reference](./api-reference.md) - Complete API documentation
-- [Integration Examples](./examples.md) - Framework-specific examples
+- [Examples](./examples.md) - Framework-specific integration examples
 - [Type Definitions](./types.md) - TypeScript type reference
+- [Error Handling](./error-handling.md) - Error codes and handling patterns
+- [Best Practices](./best-practices.md) - Security and optimization guidelines
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/0xGery/0xio-sdk/issues)
+- **Issues**: [GitHub Issues](https://github.com/0xio-xyz/docs/issues)
 - **Telegram**: [@nullXgery](https://t.me/nullXgery)
 - **Email**: team@0xio.xyz
 
 ## License
 
-MIT License - see [LICENSE](https://github.com/0xGery/0xio-sdk/blob/main/LICENSE) for details.
+MIT License - see the SDK repository for details.

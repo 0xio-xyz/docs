@@ -852,4 +852,4 @@ const DEFAULT_NETWORK_ID: string
 
 ## Type Definitions
 
-For complete type definitions, see [Type Definitions](./types.md).
+For complete type definitions, see the [SDK source code](https://github.com/0xGery/0xio-sdk/blob/main/src/types.ts).
